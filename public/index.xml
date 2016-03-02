@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Omatsuti People</title>
+    <link>http://13j-programmers.github.io/</link>
+    <description>Recent content on Omatsuti People</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <lastBuildDate>Wed, 02 Mar 2016 14:49:08 +0900</lastBuildDate>
+    <atom:link href="http://13j-programmers.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introduce our Product(s)</title>
+      <link>http://13j-programmers.github.io/product/</link>
+      <pubDate>Wed, 02 Mar 2016 14:49:08 +0900</pubDate>
+      
+      <guid>http://13j-programmers.github.io/product/</guid>
+      <description>&lt;p&gt;Our Products&lt;br /&gt;
+* &lt;a href=&#34;https://github.com/13J-Programmers/3J-class-project&#34;&gt;Ecoris(GitHub)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About us</title>
+      <link>http://13j-programmers.github.io/about/</link>
+      <pubDate>Wed, 02 Mar 2016 14:19:40 +0900</pubDate>
+      
+      <guid>http://13j-programmers.github.io/about/</guid>
+      <description>&lt;p&gt;校内文化祭に向け楽しい展示の創成を目指すプログラマ集団.&lt;br /&gt;
+2015年度製作のEcoris(エコリス)で学生会長賞を受賞.&lt;/p&gt;
+
+&lt;p style=&#34;font-size: 80%; color: #444&#34;&gt;We are programmer organization in school class that aims to create a pleasant exhibition.&lt;br&gt;
+Ecoris, the exhibiton we created in 2015 won the Student Chairman&#39;s Award.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/13J-Programmers/3J-class-project&#34;&gt;Ecoris(GitHub)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ecoris(エコリス)を展示しました</title>
+      <link>http://13j-programmers.github.io/post/ecoris-exhibited/</link>
+      <pubDate>Tue, 20 Oct 2015 14:50:23 +0900</pubDate>
+      
+      <guid>http://13j-programmers.github.io/post/ecoris-exhibited/</guid>
+      <description>
+
+&lt;h4 id=&#34;ecorisとは:6514ebdf6851bc60a920be4b8d53b63f&#34;&gt;Ecorisとは&lt;/h4&gt;
+
+&lt;p&gt;2015年度のクラス展示としてゲームを制作しました。
+LEAP MOTIONというセンサで操作する3Dテトリスです。
+Unity(C#)で半年ほどかけて準備しました。
+その甲斐あって表彰式で学生会長賞をいただきました。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

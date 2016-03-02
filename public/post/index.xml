@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Omatsuti People</title>
+    <link>http://13j-programmers.github.io/post/</link>
+    <description>Recent content in Posts on Omatsuti People</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <lastBuildDate>Tue, 20 Oct 2015 14:50:23 +0900</lastBuildDate>
+    <atom:link href="http://13j-programmers.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ecoris(エコリス)を展示しました</title>
+      <link>http://13j-programmers.github.io/post/ecoris-exhibited/</link>
+      <pubDate>Tue, 20 Oct 2015 14:50:23 +0900</pubDate>
+      
+      <guid>http://13j-programmers.github.io/post/ecoris-exhibited/</guid>
+      <description>
+
+&lt;h4 id=&#34;ecorisとは:6514ebdf6851bc60a920be4b8d53b63f&#34;&gt;Ecorisとは&lt;/h4&gt;
+
+&lt;p&gt;2015年度のクラス展示としてゲームを制作しました。
+LEAP MOTIONというセンサで操作する3Dテトリスです。
+Unity(C#)で半年ほどかけて準備しました。
+その甲斐あって表彰式で学生会長賞をいただきました。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
