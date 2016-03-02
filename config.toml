@@ -48,3 +48,8 @@ canonifyurls = true
   identifier = "product"
   url = "/product/"
 
+[[menu.main]]
+  name = "4.JS"
+  weight = -110
+  identifier = "4js"
+  url = "/4J-Class-Project/"
