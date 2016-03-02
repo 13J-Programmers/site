@@ -1,6 +1,6 @@
 baseurl= "http://13j-programmers.github.io/"
 LanguageCode= "ja-JP"
-Title= "Omatsuti People"
+Title= "13J-Programmers"
 paginate = 5
 DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = "All rights reserved - 2016"
