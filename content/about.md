@@ -15,7 +15,7 @@ title = "About us"
 2015年度製作のEcoris(エコリス)で学生会長賞を受賞.
 
 <p style="font-size: 80%; color: #444">We are programmer organization in school class that aims to create a pleasant exhibition.<br>
-Ecoris, the exhibiton we created in 2015 won the Student Chairman's Award.</p>
+Ecoris, the exhibiton we created in 2015 won the Student President's Award.</p>
 
 [Ecoris(GitHub)](https://github.com/13J-Programmers/3J-class-project)
 
